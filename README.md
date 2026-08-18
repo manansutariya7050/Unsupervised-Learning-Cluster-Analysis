@@ -111,7 +111,7 @@ jupyter notebook
 
 Then open:
 
-`Week_3_BostonHousing_Clustering.ipynb`
+`Untitled-3.ipynb`
 
 Run the cells from top to bottom.
 
